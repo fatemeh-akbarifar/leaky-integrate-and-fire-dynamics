@@ -1,4 +1,4 @@
-# Current to Spikes
+# Leaky Integrate-and-Fire Dynamics
 
 **A small neuron model with an answer I can check on paper.**
 
