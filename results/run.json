@@ -1,0 +1,13 @@
+{
+  "python": "3.9.13",
+  "numpy": "1.23.5",
+  "pandas": "2.2.3",
+  "matplotlib": "3.9.3",
+  "data": "Deterministic simulation; no external dataset",
+  "sources_sha256": {
+    "analysis.py": "b1981375265b12b24025904c004ef9019574944c7e1ee25e74668a51ed752f84",
+    "model.py": "751d5ab4255a49e9ed627d051177a0562cfde7d9756f721ffefdfdee14534857"
+  },
+  "measurement_window": "(100, 1000] ms",
+  "units": "mV, ms, nA, megaohms"
+}

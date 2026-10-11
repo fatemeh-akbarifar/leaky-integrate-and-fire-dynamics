@@ -1,0 +1,6 @@
+{
+  "conditions": 63,
+  "maximum_step_refinement_difference_hz": 1.1111111111111143,
+  "maximum_analytic_difference_hz": 1.709288818781559,
+  "all_refinement_checks_passed": true
+}
