@@ -1,4 +1,4 @@
-# From current to spikes
+# Current to Spikes
 
 **A small neuron model with an answer I can check on paper.**
 
